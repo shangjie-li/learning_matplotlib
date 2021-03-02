@@ -1,6 +1,6 @@
 # learning_matplotlib
 
-# Some code examples for learning matplotlib in Python
+Some code examples for learning matplotlib in Python
 
 ## 内容
  - 在`learning_matplotlib.py`中记录了一些利用matplotlib画图的代码示例，内容包括
