@@ -13,7 +13,7 @@ Some code examples for learning matplotlib in Python
     
 ## 附表
  - 表4-1 matplotlib绘图方法中线条的基本属性以及对应的关键字参数
-   ```Shell
+   ```
    关键字参数         描述             可选值
    color            设置颜色          red、blue等，或形如#aabbcc的16进制颜色码
    alpha            设置透明度        浮点数，介于0和1之间
@@ -26,7 +26,7 @@ Some code examples for learning matplotlib in Python
    markeredgecolor  设置标记边缘的颜色  颜色值，与color的取值一样
    ```
  - 表4-2 字体的部分属性以及对应的关键字参数
-   ```Shell
+   ```
    关键字参数         描述
    fontsize         文本字号，以磅为单位
    fontname         文本字体
