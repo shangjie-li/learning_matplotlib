@@ -34,4 +34,4 @@ Some code examples for learning matplotlib in Python
    color            文本颜色
    alpha            文本颜色的透明度
    rotation         文本标签的旋转角度
-   """
+   ```
